@@ -2,7 +2,8 @@
 
 This repository contains the MATLAB code that accompanies the paper
 
-Johannes Köhler,  Melanie Zeilinger "A model predictive control framework with robust stability guarantees under unbounded disturbances", [ArXiv link](https://arxiv.org/abs/2207.10216).
+Johannes Köhler,  Melanie Zeilinger "A model predictive control framework with robust stability guarantees under unbounded disturbances", 
+[Automatica](https://www.sciencedirect.com/science/article/pii/S0005109826005170?), [extended ArXiv version](https://arxiv.org/abs/2207.10216).
 
 # Dependencies
 - [YALMIP](https://yalmip.github.io/): formulate linear MPC problems
